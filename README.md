@@ -16,15 +16,15 @@ This work uses the following works from *Creative Commons*
 
 ## hows
 
-if you want to use docker [hub repo](https://hub.docker.com/u/yakeworld/glype/):
+if you want to use docker [hub repo](https://hub.docker.com/r/yakeworld/docker-glype/):
 
-    docker run --name glype -p 9000:80 -d yakeworld/glype:latest
+    docker run --name glype -p 9000:80 -d yakeworld/docker-glype
 
 if you just want to try try this repo, use this
 
 1. first check out this repo and cd into it
 
-       git clone https://github.com/yakeworld/glype.git glype-docker && cd glype-docker
+       git clone https://github.com/yakeworld/glype.git docker-glype && cd docker-glype
 
 2. second you have to build it first
 
