@@ -37,3 +37,7 @@ if you just want to try try this repo, use this
 you may need to open a browser to address to *http://ip-address-of-your-docker-host:9000*
 
 
+argues
+what is wrong with this <a href='https://hub.docker.com/r/cinqsoong/glype/'>repo</a>
+
+Did not need the default.conf file.
