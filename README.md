@@ -6,7 +6,7 @@ This work uses the following works from *Creative Commons*
 1. `APACHE 2`
 2. `PHP 7.2.2`
 3. `PHP docker project`
-4. [`Glype`](https://sourceforge.net/projects/glypeproxy/)
+4. [`Glype`](https://github.com/Abban/glype)
 
 ## contacts the author
 
@@ -16,15 +16,15 @@ This work uses the following works from *Creative Commons*
 
 ## hows
 
-if you want to use docker [hub repo](https://hub.docker.com/r/yakeworld/docker-glype/):
+if you want to use docker [hub repo](https://hub.docker.com/r/yakeworld/glype1.2/):
 
-    docker run --name glype -p 9000:80 -d yakeworld/docker-glype
+    docker run --name glype -p 9000:80 -d yakeworld/glype1.2
 
 if you just want to try try this repo, use this
 
 1. first check out this repo and cd into it
 
-       git clone https://github.com/yakeworld/glype.git docker-glype && cd docker-glype
+       git clone https://github.com/yakeworld/glype.git  glype && cd glype
 
 2. second you have to build it first
 
